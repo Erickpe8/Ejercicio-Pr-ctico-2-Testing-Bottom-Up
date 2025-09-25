@@ -4,6 +4,8 @@
 Este proyecto implementa un **Sistema de Cálculo de Nómina**, probado con enfoque **Bottom Up**.  
 Se parte de módulos base (cálculo de impuestos, bonos y deducciones) y, mediante **drivers de prueba**, se validan de forma unitaria.  
 Posteriormente, se integran progresivamente en el sistema de nómina para comprobar el cálculo de la **nómina neta**.
+<img width="1318" height="348" alt="image" src="https://github.com/user-attachments/assets/29ceddef-b991-45ed-91d1-038079b1f2c1" />
+
 
 ## Requisitos
 - Python 3.8+
