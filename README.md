@@ -54,6 +54,14 @@ Todas las pruebas deben pasar mostrando `PASSED`.
 El reporte de cobertura debe reflejar más del **80%** de cobertura en los módulos.
 
 ## Evidencia
+<img width="1808" height="398" alt="image" src="https://github.com/user-attachments/assets/ebedb5a8-670e-4678-ba0f-57be2e02cbce" />
+
+<img width="918" height="509" alt="image" src="https://github.com/user-attachments/assets/e6da1c78-3ab9-4945-a4f6-cacc631b11d3" />
+<img width="1500" height="503" alt="image" src="https://github.com/user-attachments/assets/fec78f20-f755-4ea0-bb56-a042e04dbbd7" />
+<img width="1292" height="439" alt="image" src="https://github.com/user-attachments/assets/7cd461c0-88cd-4d21-bcc6-290930f33045" />
+
+
+
 
 
 ---
