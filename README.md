@@ -1,4 +1,4 @@
-# jercicio Práctico 2: Testing Bottom Up – Sistema de Nómina
+# Ejercicio Práctico 2: Testing Bottom Up – Sistema de Nómina
 
 ## Descripción
 Este proyecto implementa un **Sistema de Cálculo de Nómina**, probado con enfoque **Bottom Up**.  
@@ -54,7 +54,7 @@ Todas las pruebas deben pasar mostrando `PASSED`.
 El reporte de cobertura debe reflejar más del **80%** de cobertura en los módulos.
 
 ## Evidencia
-*(Aquí inserta las capturas de pantalla de la consola y el reporte HTML de cobertura)*
+
 
 ---
 
